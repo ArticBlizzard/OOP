@@ -58,6 +58,7 @@ int main()
 	hs.NhapThongTin();
 	hs.XuatThongTin();
 	cout << hs.TinhDiemtb();
+	cout<<"a";
 	return 0;
 	
 }
